@@ -1,0 +1,156 @@
+00:00:00.002500 main     VirtualBox COM Server 7.0.8 r156879 win.amd64 (Apr 17 2023 16:42:53) release log
+00:00:00.002502 main     Log opened 2023-09-26T15:40:11.662244300Z
+00:00:00.002503 main     Build Type: release
+00:00:00.002506 main     OS Product: Windows 11
+00:00:00.002507 main     OS Release: 10.0.22621
+00:00:00.002507 main     OS Service Pack: 
+00:00:00.022608 main     DMI Product Name: HP Envy Laptop 17-cw0xxx
+00:00:00.033024 main     DMI Product Version: Type1ProductConfigId
+00:00:00.033033 main     Firmware type: UEFI
+00:00:00.033309 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.033331 main     Host RAM: 16093MB (15.7GB) total, 9865MB (9.6GB) available
+00:00:00.033334 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.033335 main     Process ID: 13376
+00:00:00.033335 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.084429          VirtualBox: object creation starts
+00:00:00.084560          Home directory: 'C:\Users\lowes\.VirtualBox'
+00:00:00.084661          Installed Drivers:
+00:00:00.087098            C:\windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.8.6879)
+00:00:00.087397            C:\windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.8.6879)
+00:00:00.087554            C:\windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.8.6879)
+00:00:00.087978            C:\windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.8.6879)
+00:00:00.090715          Loading settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.092067          usbLibGetDevices: Starting USB device enumeration
+00:00:00.133021          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.133103          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.134855          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.134898          USB: Unknown USB device detected (idVendor: 0x0408, idProduct: 0x5465)
+00:00:00.134941          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0033)
+00:00:00.237572          HostDnsMonitor: initializing
+00:00:00.247848          HostDnsMonitor: updating information
+00:00:00.247864          HostDnsMonitor: old information
+00:00:00.247865            no server entries
+00:00:00.247866            no domain set
+00:00:00.247866            no search string entries
+00:00:00.247866          HostDnsMonitor: new information
+00:00:00.247866            server 1: 192.168.1.1
+00:00:00.247867            domain: fios-router.home
+00:00:00.247867            no search string entries
+00:00:00.249475          VD: VDInit finished with VINF_SUCCESS
+00:00:00.250872          Loading settings file "C:\Users\lowes\VirtualBox VMs\test_serve\test_serve.vbox" with version "1.19-windows"
+00:00:00.257736          Loading settings file "C:\Users\lowes\VirtualBox VMs\desktop\desktop.vbox" with version "1.19-windows"
+00:00:00.263370          Loading settings file "C:\Users\lowes\VirtualBox VMs\centserve\centserve.vbox" with version "1.19-windows"
+00:00:00.269219          Loading settings file "C:\Users\lowes\VirtualBox VMs\test2\test2.vbox" with version "1.19-windows"
+00:00:00.274626          Loading settings file "C:\Users\lowes\VirtualBox VMs\testserver2\testserver2.vbox" with version "1.19-windows"
+00:00:00.275419          Loading settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:00:00.275975          Loading settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+00:00:00.280854          Loading settings file "C:\Users\lowes\VirtualBox VMs\dev3apache.line.com\dev3apache.line.com.vbox" with version "1.19-windows"
+00:00:00.285698          Loading settings file "C:\Users\lowes\VirtualBox VMs\devr4apache.line.com\devr4apache.line.com.vbox" with version "1.19-windows"
+00:00:00.290449          Loading settings file "C:\Users\lowes\VirtualBox VMs\dev4apache.line.com\dev4apache.line.com.vbox" with version "1.19-windows"
+00:00:00.295083          Loading settings file "C:\Users\lowes\VirtualBox VMs\newday\newday.vbox" with version "1.19-windows"
+00:00:00.300219          Loading settings file "C:\Users\lowes\VirtualBox VMs\devlast1.apacheline.com\devlast1.apacheline.com.vbox" with version "1.19-windows"
+00:00:00.300910          Loading settings file "C:\Users\lowes\VirtualBox VMs\dev.line.com\dev.line.com.vbox" with version "1.19-windows"
+00:00:00.301471          VirtualBox: object created
+00:00:00.351939          Saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.353945          Finished saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml"
+00:00:00.354206          Saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.356257          Finished saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml"
+00:00:00.356509          Saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.358413          Finished saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml"
+00:00:01.286626          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:08.551444          Saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.553591          Finished saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml"
+00:00:08.574079          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:11.412666          Launched VM: 4249237792 pid: 10776 (0x2a18) frontend: GUI/Qt name: dev1apache.line.com
+00:00:11.443707          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:17.033799          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:18.034976          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:25.968740          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:26.170469          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:26.295708          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:26.304731          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:00:26.307534          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox"
+00:00:26.317355          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:27.253235          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.253538          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.253828          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.303291          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:30.138528          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:00:30.140500          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox"
+00:00:30.149990          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:43.980578          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:00:43.982917          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox"
+00:00:43.993535          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:06:23.411030          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:06:23.419890          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox"
+00:06:23.443889          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:06:24.016887          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:06:24.025522          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox"
+00:06:24.048016          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:06:37.470216          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox" with version "1.19-windows"
+00:06:37.480079          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev1apache.line.com\dev1apache.line.com.vbox"
+00:06:37.491162          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:08:31.580065 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:08:31.616622 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:08:31.616768 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:08:31.617064 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:27:10.473684 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:27:10.508523 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+01:27:10.508655 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+01:27:10.508987 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:43:20.639209 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:43:20.679135 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+01:43:20.679276 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+01:43:20.679658 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+03:09:46.911160          Saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+03:09:46.922147          Finished saving settings file "C:\Users\lowes\.VirtualBox\VirtualBox.xml"
+03:09:46.937023          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:09:48.691744          Launched VM: 4249680736 pid: 29500 (0x733c) frontend: GUI/Qt name: dev2apache.line.com
+03:09:48.708954          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:09:53.858954          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:09:54.848917          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+03:10:02.900303          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+03:10:03.126823          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+03:10:03.213600          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+03:10:03.215184          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:10:03.223605          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:10:03.232732          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+03:10:05.384963          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+03:10:05.385788          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+03:10:05.386348          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+03:10:05.419482          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:10:05.890907          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:10:05.901033          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:10:05.912051          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:10:08.358345          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:10:08.360344          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:10:08.369586          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:10:29.620087          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+03:10:31.805867          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+03:10:31.881329          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:10:31.884174          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:10:31.895880          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:10:33.421343          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:10:34.666318          Launched VM: 4279953328 pid: 24352 (0x5f20) frontend: GUI/Qt name: dev2apache.line.com
+03:10:34.679854          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:10:39.741733          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:10:40.757062          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+03:10:48.732322          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+03:10:48.895930          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+03:10:49.089575          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:10:49.097135          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:10:49.112456          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+03:10:49.924683          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+03:10:49.924977          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+03:10:49.925203          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+03:10:49.955772          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:10:52.810432          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:10:52.818656          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:10:52.828694          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:11:12.449864          Saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox" with version "1.19-windows"
+03:11:12.452092          Finished saving settings file "C:\Users\lowes\VirtualBox VMs\dev2apache.line.com\dev2apache.line.com.vbox"
+03:11:12.462705          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:17:41.199467 USBPROXY usbLibGetDevices: Starting USB device enumeration
+03:17:41.234918 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+03:17:41.235097 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2185d8af&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+03:17:41.235299 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
